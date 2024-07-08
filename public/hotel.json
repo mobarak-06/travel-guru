@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "Standard Room with Garden View",
+        "air_conditioned": true,
+        "rating": 4.5,
+        "per_night_price": 120,
+        "room_details": [
+            "4 guests",
+            "2 bedrooms",
+            "2baths"
+        ],
+        "image_url": "https://i.ibb.co/Sx4G7W1/indoor-design-luxury-resort.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Deluxe Room with Ocean View",
+        "air_conditioned": true,
+        "rating": 4.8,
+        "per_night_price": 200,
+        "room_details": [
+            "4 guests",
+            "2 bedrooms",
+            "2baths"
+        ],
+        "image_url": "https://i.ibb.co/xXGFQNQ/bedroom-with-ocean-view.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Suite with Private Balcony",
+        "air_conditioned": true,
+        "rating": 4.9,
+        "per_night_price": 350,
+        "room_details": [
+            "4 guests",
+            "2 bedrooms",
+            "2baths"
+        ],
+        "image_url": "https://i.ibb.co/30HJgmN/beautiful-outdoor-patio-with-chair-table.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Economy Room with Street View",
+        "air_conditioned": false,
+        "rating": 3.8,
+        "per_night_price": 80,
+        "room_details": [
+            "4 guests",
+            "2 bedrooms",
+            "2baths"
+        ],
+        "image_url": "https://i.ibb.co/YQjqHLj/3d-rendering-loft-luxury-living-room-with-bookshelf.jpg"
+    }
+]
